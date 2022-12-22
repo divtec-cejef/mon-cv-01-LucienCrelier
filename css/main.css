@@ -1,15 +1,33 @@
 body {
-    background: #e84c08;
+    background: #d970ff;
+    color: white;
+    font-family: Karla;
+    background-image: url("../icone/image 2.jfif");
+    background-size: cover;
+    background-position: bottom center;
+    text-align: center;
+
+}
+
+image {
+    max-width: 100%;
+    height: auto;
 }
 
 h1 {
-    color: yellow;
+    color: white;
+    border: 4px dotted #61328f;
+    text-align: center;
+    text-shadow: white 10px 0 10px;
 }
 
-p {
-    color: #FFFF00FF;
+.purple {
+    background-color: #61328f;
 }
 
-p1 {
-    color: #FFFF00FF;
+a[href] {
+    background-color: #61328f;
+    color: white
+
 }
+
