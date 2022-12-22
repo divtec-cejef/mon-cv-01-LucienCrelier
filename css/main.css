@@ -28,6 +28,9 @@ h1 {
 a[href] {
     background-color: #61328f;
     color: white
+}
 
+li {
+    list-style-position: inside;
 }
 
