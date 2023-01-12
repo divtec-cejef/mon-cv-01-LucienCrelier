@@ -1,13 +1,13 @@
 body {
-    background: #d970ff;
     color: white;
     font-family: Karla, sans-serif;
     font-weight: 200;
-    background-image: url("../icone/image 2.jfif");
+    font-size: 1.12rem;
+    line-height: 1.4;
+    background-image: url("../images/image-de-fond2.jfif");
     background-size: cover;
     background-position: bottom center;
     text-align: center;
-
 }
 
 image {
@@ -26,7 +26,7 @@ h1 {
     background-color: #61328f;
 }
 
-a[href] {
+a:hover {
     background-color: #61328f;
     color: white
 }
