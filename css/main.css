@@ -1,7 +1,8 @@
 body {
     background: #d970ff;
     color: white;
-    font-family: Karla;
+    font-family: Karla, sans-serif;
+    font-weight: 200;
     background-image: url("../icone/image 2.jfif");
     background-size: cover;
     background-position: bottom center;
